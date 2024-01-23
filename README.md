@@ -12,7 +12,7 @@
 ## Clone & Open
 ```
     git clone https://github.com/dedaldinodev4/api-node-prisma-ts-boilerplate.git
-    cd portagens-backend-node
+    cd api-node-prisma-ts-boilerplate
 ```
 ## Install & Run
 ```
